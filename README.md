@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="BeTheHero" title="#delicinha" src="https://user-images.githubusercontent.com/30902898/113480258-d02cb580-9469-11eb-9bf6-f2e25a708dce.png" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -10,14 +10,6 @@
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
